@@ -5,55 +5,55 @@ module.exports = [
     "languageCode": "af_ZA",
     "languageName": "Afrikaans",
     "languageNativeName": "Afrikaans",
-    "translationRatio": 0.049455640491081754
+    "translationRatio": 0.0494041420802962
   },
   {
     "languageCode": "ar_SA",
     "languageName": "Arabic",
     "languageNativeName": "اَلْعَرَبِيَّةُ",
-    "translationRatio": 0.9680333564975677
+    "translationRatio": 0.9672567395580238
   },
   {
     "languageCode": "az_AZ",
     "languageName": "Azerbaijani",
     "languageNativeName": "azərbaycan dili",
-    "translationRatio": 0.039726662033819804
+    "translationRatio": 0.03968529445794289
   },
   {
     "languageCode": "bg_BG",
     "languageName": "Bulgarian",
     "languageNativeName": "български език",
-    "translationRatio": 0.08663423673847581
+    "translationRatio": 0.08654402406571793
   },
   {
     "languageCode": "bn_BD",
     "languageName": "Bengali",
     "languageNativeName": "বাংলা",
-    "translationRatio": 0.055478341440815426
+    "translationRatio": 0.0554205715608006
   },
   {
     "languageCode": "br_FR",
     "languageName": "Breton",
     "languageNativeName": "brezhoneg",
-    "translationRatio": 0.026523048413249928
+    "translationRatio": 0.02649542982760611
   },
   {
     "languageCode": "ca_ES",
     "languageName": "Catalan",
     "languageNativeName": "Català",
-    "translationRatio": 0.24727820245540888
+    "translationRatio": 0.247020710401481
   },
   {
     "languageCode": "cs_CZ",
     "languageName": "Czech",
     "languageNativeName": "čeština",
-    "translationRatio": 0.27866574009728984
+    "translationRatio": 0.27837556404026376
   },
   {
     "languageCode": "da_DK",
     "languageName": "Danish",
     "languageNativeName": "Dansk",
-    "translationRatio": 0.05895297660412324
+    "translationRatio": 0.05889158856878396
   },
   {
     "languageCode": "de_DE",
@@ -66,12 +66,6 @@ module.exports = [
     "languageName": "Greek",
     "languageNativeName": "Ελληνικά",
     "translationRatio": 0.20975214269168407
-  },
-  {
-    "languageCode": "en",
-    "languageName": "English",
-    "languageNativeName": "English",
-    "translationRatio": 0.0696895922093731
   },
   {
     "languageCode": "eo_UY",
